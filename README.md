@@ -10,6 +10,7 @@ Fast Cash is a web application designed to streamline the loan application proce
 ******
 
 ## SCREENSHOTS
+![Screenshot from 2023-11-19 16-32-00](https://github.com/eceechain/Fast-cash/assets/144310680/8ce9fdd8-aecd-4e1a-9d9f-ac5f890555b1)
 
 
 ## LIVE LINK
