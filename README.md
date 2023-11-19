@@ -59,6 +59,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 > Run using vsCode
 *****
 ## NPM 
+Click NPM start and launch on a server to view the live link, then open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 *****
 ## Dependencies
