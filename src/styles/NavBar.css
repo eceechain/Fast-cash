@@ -1,0 +1,59 @@
+/* NavBar.css */
+
+nav {
+    background-color: #3498db;
+    padding: 10px;
+    display: flex;
+    padding-right: 100px;
+    justify-content: flex-end;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px; /* Adjusted margin for equal space between navigation links */
+    font-size: 16px;
+  }
+  
+  nav a:hover {
+    border-bottom: 2px solid #fff;
+  }
+  
+  .nav-link {
+    position: relative;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .dropdown {
+    display: inline-block;
+    margin: 0 10px; /* Adjusted margin for equal space between dropdown and other links */
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #3498db;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    top: 100%;
+    left: 0;
+    min-width: 10px;
+  }
+  
+  .dropdown-content a {
+    color: #fff;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    border-bottom: 1px solid #fff;
+  }
+  
+  .dropdown-content a:last-child {
+    border-bottom: none;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  

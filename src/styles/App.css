@@ -1,0 +1,18 @@
+/* App.css */
+
+.app {
+  text-align: center;
+}
+
+.app-header {
+  background-color: #3498db; /* Set a background color for the header */
+  color: #fff; /* Set text color to white */
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.app-header h1 {
+  margin: 0;
+}
+
+/* Additional styling can be added here as needed */
